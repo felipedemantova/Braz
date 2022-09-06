@@ -4,23 +4,41 @@ body{
 
 #conteudo-principal{
 	
-	width: 1274px;
+	width: 1920px;
+	height: auto;
+	float: left;
+	padding: 1px;
+	margin: 1px;
+	
+}
+
+.titulo{
+	
+	background: purple;
+	width: 1920px;
+	
+	
+}
+
+#imagemprincipal{
+	
+	width: 1920;
 	
 }
 
 
 
 #conteudo-esquerda{
-	width: 424px;
+	width: 610px;
 	height: auto;
 	float: left;
 }
 #conteudo-centro{
-	width: 424px;
+	width: 610px;
 	height: auto;
 	float: left;
 }
 .banner{
-	width:424px;
+	width:610px;
 	height: 375px;
 }
